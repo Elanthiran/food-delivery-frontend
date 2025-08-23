@@ -79,7 +79,7 @@ const CheckOut = () => {
     };
 
     try {
-      await axios.post("http://localhost:5000/api/orders", order, {
+      await axios.post("https://food-delivery-backend-1-rop5.onrender.com/api/orders", order, {
         headers: { Authorization: `Bearer ${token}` },
       });
 

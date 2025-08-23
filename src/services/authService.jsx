@@ -1,7 +1,7 @@
 // frontend/src/services/authService.js
 import axios from 'axios';
 
-const API_URL = 'https://food-delivery-backend-1-rop5.onrender.com';
+const API_URL = 'https://food-delivery-backend-1-rop5.onrender.com/api/auth/';
 
 const register = (username, email, password, role) => {
   return axios.post(API_URL + 'register', { username, email, password, role });
