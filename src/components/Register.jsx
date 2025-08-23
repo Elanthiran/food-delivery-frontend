@@ -20,7 +20,7 @@ const Register = () => {
     }
 
     try {
-      const res = await axios.post("https://food-delivery-backend-1-rop5.onrender.com/api/auth/register", {
+      const res = await axios.post(" https://food-delivery-backend-2-vyik.onrender.com/api/auth/register", {
         username,
         email,
         password,

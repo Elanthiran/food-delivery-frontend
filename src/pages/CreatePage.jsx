@@ -53,7 +53,7 @@ const CreatePage = () => {
 
     try {
       const response = await axios.post(
-        "https://food-delivery-backend-1-rop5.onrender.com/api/users/datas",
+        " https://food-delivery-backend-2-vyik.onrender.com/api/users/datas",
         { title, domain, price: Number(price), image },
         {
           headers: {

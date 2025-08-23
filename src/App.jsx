@@ -42,7 +42,7 @@ const App = () => {
 
     const fetchData = async () => {
       try {
-        const res = await axios.get("https://food-delivery-backend-1-rop5.onrender.com/api/users/datas", {
+        const res = await axios.get(" https://food-delivery-backend-2-vyik.onrender.com/api/users/datas", {
           headers: { Authorization: `Bearer ${token}` },
         });
         dispatch(setData(res.data));

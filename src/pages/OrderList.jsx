@@ -14,7 +14,7 @@ function OrderList() {
     }
 
     axios
-      .get("https://food-delivery-backend-1-rop5.onrender.com/api/orders", {
+      .get(" https://food-delivery-backend-2-vyik.onrender.com/api/orders", {
         headers: { Authorization: "Bearer " + token },
       })
       .then((res) => {

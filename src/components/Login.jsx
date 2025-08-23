@@ -25,7 +25,7 @@ const Login = () => {
     setErrorMsg("");
 
     try {
-      const res = await axios.post("https://food-delivery-backend-1-rop5.onrender.com/api/auth/login", {
+      const res = await axios.post(" https://food-delivery-backend-2-vyik.onrender.com/api/auth/login", {
         email,
         password,
       });

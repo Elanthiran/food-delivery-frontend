@@ -18,7 +18,7 @@ const OrderDetails = () => {
       }
 
       try {
-        const response = await axios.get(`https://food-delivery-backend-1-rop5.onrender.com/api/orders/${id}`, {
+        const response = await axios.get(` https://food-delivery-backend-2-vyik.onrender.com/api/orders/${id}`, {
           headers: { Authorization: `Bearer ${token}` },
         });
 
