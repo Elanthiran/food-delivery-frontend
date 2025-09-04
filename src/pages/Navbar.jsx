@@ -2,10 +2,11 @@ import React from "react";
 import { IoMdSearch } from "react-icons/io";
 import { useDispatch, useSelector } from "react-redux";
 import { setSearch, setToggle } from "../Redux/slice/cartSlice";
-
+import { useNavigate } from "react-router-dom";
 const Navbar = () => {
   const dispatch = useDispatch();
   const search = useSelector((state) => state.cart.search);
+  const navigate=useNavigate()
 
   return (
     <nav className="navbar navbar-expand-lg bg-light p-3 shadow-sm">
