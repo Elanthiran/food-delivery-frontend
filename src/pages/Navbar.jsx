@@ -21,7 +21,7 @@ const Navbar = () => {
             onChange={(e) => dispatch(setSearch(e.target.value))}
           />
         </div>
-
+ <button className="btn btn-outline-warning btn-small" onClick={()=>navigate("/orders")}>orders</button>
      
       </div>
     </nav>
