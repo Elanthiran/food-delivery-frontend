@@ -68,19 +68,32 @@ npm install
 ---
 
 ## 📸 Screenshots
-(Add screenshots of key pages: Home, Login, Register, Orders, Admin Panel)
+(Add screenshots of key pages: Home, Login, Register, Orders, Admin Panel) :
+
+LoginPage:
+
 <img width="1863" height="817" alt="image" src="https://github.com/user-attachments/assets/fe635b24-96ba-4dce-a2be-24b369407244" />
 
+RegisterPage:
 
 <img width="1840" height="847" alt="image" src="https://github.com/user-attachments/assets/93fd14b2-9bab-49bb-8113-cd9a182bb99b" />
 
+HomePage:
 
-<img width="1845" height="841" alt="image" src="https://github.com/user-attachments/assets/9b730f9e-eaac-426e-861f-c6ad400dcbd1" />
+ <img width="1840" height="907" alt="image" src="https://github.com/user-attachments/assets/f2412976-1175-43b0-9321-737b60bbe4ae" />
 
+
+Cart:
 
 <img width="1861" height="862" alt="image" src="https://github.com/user-attachments/assets/0a585fbf-852a-49da-b892-2a1ddeaffdc1" />
 
+Orders:
 
+<img width="1856" height="801" alt="image" src="https://github.com/user-attachments/assets/1df7e88e-b3d1-4c13-a79b-a79d168a3289" />
+
+OrderDetails:
+
+<img width="1871" height="917" alt="image" src="https://github.com/user-attachments/assets/e51234dc-e74e-4063-a459-39b446c53662" />
 
 ---
 
