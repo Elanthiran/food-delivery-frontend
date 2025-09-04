@@ -1,4 +1,4 @@
-## 🍔 Food Delivery Fronten
+## 🍔 food-Delivery-frontend
 
 This is the **frontend for the Food Delivery Application**, built with **React**.  
 It provides a **user-friendly interface** for browsing food items, managing orders, and handling user authentication.
